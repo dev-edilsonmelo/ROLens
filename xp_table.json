@@ -1,0 +1,272 @@
+{
+  "base": {
+    "29": {
+      "xp": 35988,
+      "confirmed": true
+    },
+    "46": {
+      "xp": 199991,
+      "confirmed": true
+    },
+    "24": {
+      "xp": 25981,
+      "confirmed": true
+    },
+    "30": {
+      "xp": 56985,
+      "confirmed": true
+    },
+    "47": {
+      "xp": 209992,
+      "confirmed": true
+    },
+    "10": {
+      "xp": 8247,
+      "confirmed": true
+    },
+    "6": {
+      "xp": 3799,
+      "confirmed": true
+    },
+    "31": {
+      "xp": 59984,
+      "confirmed": true
+    },
+    "32": {
+      "xp": 62999,
+      "confirmed": true
+    },
+    "25": {
+      "xp": 27999,
+      "confirmed": true
+    },
+    "26": {
+      "xp": 29981,
+      "confirmed": true
+    },
+    "27": {
+      "xp": 31993,
+      "confirmed": true
+    },
+    "33": {
+      "xp": 65998,
+      "confirmed": true
+    },
+    "28": {
+      "xp": 33998,
+      "confirmed": true
+    },
+    "34": {
+      "xp": 69599,
+      "confirmed": true
+    },
+    "35": {
+      "xp": 71996,
+      "confirmed": true
+    },
+    "36": {
+      "xp": 77995,
+      "confirmed": true
+    },
+    "37": {
+      "xp": 82458,
+      "confirmed": true
+    },
+    "38": {
+      "xp": 86998,
+      "confirmed": true
+    },
+    "39": {
+      "xp": 89973,
+      "confirmed": true
+    },
+    "40": {
+      "xp": 157464,
+      "confirmed": true
+    },
+    "41": {
+      "xp": 164979,
+      "confirmed": true
+    },
+    "42": {
+      "xp": 169962,
+      "confirmed": true
+    },
+    "43": {
+      "xp": 179998,
+      "confirmed": true
+    },
+    "44": {
+      "xp": 187488,
+      "confirmed": true
+    },
+    "45": {
+      "xp": 189946,
+      "confirmed": true
+    },
+    "48": {
+      "xp": 222470,
+      "confirmed": true
+    },
+    "49": {
+      "xp": 234993,
+      "confirmed": true
+    },
+    "50": {
+      "xp": 489982,
+      "confirmed": true
+    },
+    "51": {
+      "xp": 509990,
+      "confirmed": true
+    },
+    "52": {
+      "xp": 529971,
+      "confirmed": true
+    },
+    "1": {
+      "xp": 0,
+      "confirmed": true
+    },
+    "2": {
+      "xp": 35,
+      "confirmed": true
+    },
+    "3": {
+      "xp": 240,
+      "confirmed": true
+    },
+    "4": {
+      "xp": 430,
+      "confirmed": true
+    },
+    "5": {
+      "xp": 2145,
+      "confirmed": true
+    },
+    "7": {
+      "xp": 4173,
+      "confirmed": true
+    },
+    "53": {
+      "xp": 549720,
+      "confirmed": true
+    },
+    "8": {
+      "xp": 4490,
+      "confirmed": true
+    },
+    "9": {
+      "xp": 4997,
+      "confirmed": true
+    },
+    "11": {
+      "xp": 8999,
+      "confirmed": true
+    },
+    "12": {
+      "xp": 9129,
+      "confirmed": true
+    },
+    "13": {
+      "xp": 9517,
+      "confirmed": true
+    },
+    "14": {
+      "xp": 10026,
+      "confirmed": true
+    },
+    "15": {
+      "xp": 11019,
+      "confirmed": true
+    },
+    "16": {
+      "xp": 11996,
+      "confirmed": true
+    },
+    "17": {
+      "xp": 12583,
+      "confirmed": true
+    },
+    "18": {
+      "xp": 13183,
+      "confirmed": true
+    },
+    "19": {
+      "xp": 13792,
+      "confirmed": true
+    },
+    "20": {
+      "xp": 19384,
+      "confirmed": true
+    },
+    "21": {
+      "xp": 20587,
+      "confirmed": true
+    },
+    "22": {
+      "xp": 21980,
+      "confirmed": true
+    },
+    "23": {
+      "xp": 23588,
+      "confirmed": true
+    },
+    "54": {
+      "xp": 589994,
+      "confirmed": true
+    },
+    "55": {
+      "xp": 614970,
+      "confirmed": true
+    },
+    "56": {
+      "xp": 614940,
+      "confirmed": true
+    },
+    "57": {
+      "xp": 629894,
+      "confirmed": true
+    },
+    "58": {
+      "xp": 649948,
+      "confirmed": true
+    },
+    "59": {
+      "xp": 669956,
+      "confirmed": true
+    },
+    "60": {
+      "xp": 1034958,
+      "confirmed": true
+    },
+    "61": {
+      "xp": 1049825,
+      "confirmed": true
+    },
+    "62": {
+      "xp": 1094986,
+      "confirmed": true
+    },
+    "63": {
+      "xp": 1154569,
+      "confirmed": true
+    },
+    "64": {
+      "xp": 1199963,
+      "confirmed": true
+    },
+    "65": {
+      "xp": 1259584,
+      "confirmed": true
+    },
+    "66": {
+      "xp": 1319916,
+      "confirmed": true
+    },
+    "67": {
+      "xp": 1107894,
+      "confirmed": false
+    }
+  }
+}
