@@ -1,0 +1,17 @@
+# Python Requirements
+# Dependências externas
+rich>=13.0.0
+filelock>=3.0.0
+qrcode>=7.0.0
+customtkinter>=5.2.0
+pillow>=10.0.0
+matplotlib>=3.7.0
+pyinstaller>=6.0.0
+
+# Bibliotecas nativas do Python usadas (não precisam ser instaladas):
+# - ctypes (manipulação de bibliotecas C/DLL e Windows API)
+# - json (serialização de dados)
+# - sys (argumentos de linha de comando)
+# - time (temporização)
+# - threading (threads para captura de teclas)
+# - msvcrt (captura de teclas no Windows)
