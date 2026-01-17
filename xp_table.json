@@ -117,7 +117,7 @@
       "confirmed": true
     },
     "51": {
-      "xp": 509990,
+      "xp": 509997,
       "confirmed": true
     },
     "52": {
@@ -225,11 +225,11 @@
       "confirmed": true
     },
     "57": {
-      "xp": 629894,
+      "xp": 629984,
       "confirmed": true
     },
     "58": {
-      "xp": 649948,
+      "xp": 649971,
       "confirmed": true
     },
     "59": {
@@ -237,11 +237,11 @@
       "confirmed": true
     },
     "60": {
-      "xp": 1034958,
+      "xp": 1034972,
       "confirmed": true
     },
     "61": {
-      "xp": 1049825,
+      "xp": 1049969,
       "confirmed": true
     },
     "62": {
@@ -265,7 +265,23 @@
       "confirmed": true
     },
     "67": {
-      "xp": 1231702,
+      "xp": 1364967,
+      "confirmed": true
+    },
+    "68": {
+      "xp": 1424471,
+      "confirmed": true
+    },
+    "69": {
+      "xp": 386432,
+      "confirmed": false
+    },
+    "72": {
+      "xp": 3099921,
+      "confirmed": true
+    },
+    "73": {
+      "xp": 2924120,
       "confirmed": false
     }
   }
